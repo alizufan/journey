@@ -1,2 +1,2 @@
-# web-journey
-My Website Journey abuot profile, blog.
+# my-journey
+Website Journey about my profile, blog, and etc.
